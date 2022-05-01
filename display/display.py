@@ -1,3 +1,4 @@
+#This code creates the hangman
 class Display:
     ascii_art = [
 '''
